@@ -1,4 +1,4 @@
-# 🔥 SwiftyNetwoking
+# 🔥 ElRequesto
  generic based approach doing api request in swift
 
 A lightweight and developer-friendly Swift networking library that handles the boilerplate so you don’t have to. Built-in:
