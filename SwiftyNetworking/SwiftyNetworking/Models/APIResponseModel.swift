@@ -1,6 +1,6 @@
 //
 //  APIResponseModel.swift
-//  Closetly
+//  SwiftyNetworking
 //
 //  Created by angel zambrano on 4/12/25.
 //
